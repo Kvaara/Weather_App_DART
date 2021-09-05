@@ -5,6 +5,7 @@ class Weather {
     required this.maxTemp,
     required this.temp,
   });
+
   final String weatherState;
   final double minTemp;
   final double maxTemp;
